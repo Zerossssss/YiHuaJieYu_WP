@@ -76,7 +76,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 ```sh
 git clone https://github.com/Zerossssss/YiHuaJieYu_WP
-cd TG-FileStreamBot
+cd YiHuaJieYu_WP
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -163,7 +163,7 @@ Feel free to contribute to this project if you have any further ideas
 [![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://xn--r1a.click/WhySooSerious)
 [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://xn--r1a.click/WhyThisUsername)
 
-You can contact either via my [Telegram Group](https://xn--r1a.click/WhyThisUsername) ~~or you can PM me on [@EverythingSuckz](https://xn--r1a.click/EverythingSuckz)~~
+You can contact either via my [Telegram Group](https://xn--r1a.click/WhyThisUsername) ~~or you can PM me on [@Zerossssss](https://xn--r1a.click/Zerossssss)~~
 
 
 ## Credits
@@ -176,9 +176,9 @@ You can contact either via my [Telegram Group](https://xn--r1a.click/WhyThisUser
 
 ## Copyright
 
-Copyright (C) 2022 [EverythingSuckz](https://github.com/EverythingSuckz) under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html).
+Copyright (C) 2022 [Zerossssss](https://github.com/Zerossssss) under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
-TG-FileStreamBot is Free Software: You can use, study share and improve it at your
+YiHuaJieYu_WP is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) as
 published by the Free Software Foundation, either version 3 of the License, or
